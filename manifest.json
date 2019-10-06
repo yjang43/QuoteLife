@@ -1,0 +1,22 @@
+{
+  "name": "Quote Life",
+  "version": "1.0.0",
+  "permissions": ["contextMenus", "storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "icons": {
+    "16": "bear.png",
+    "48": "bear.png"
+  },
+  "browser_action": {
+    "default_title": "Popup",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "bear.png",
+      "32": "bear.png"
+    }
+  },
+  "manifest_version": 2
+}
