@@ -1,9 +1,9 @@
 # QuoteLife
+## Overview
+**QuoteLife** selects text you need to store and lets you use the text anytime you need.
 ![alt text](https://lh3.googleusercontent.com/TaMWrp1IClWDpoX0LE78hOpJN0rQrqMAkOvezaFhPQinfj5XO-NwbDqxO23WLOWoC9nK_4lHcQ=w640-h400-e365)
 https://chrome.google.com/webstore/detail/quote-life/khdodnhfocoipempiahdcnnboainjlbg
 
-## Overview
-**QuoteLife** selects text you need to store and lets you use the text anytime you need.
 
 ## How To Use
 **QuoteLife** aims for the simplest GUI for users. 
