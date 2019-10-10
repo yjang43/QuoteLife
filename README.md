@@ -11,7 +11,8 @@ It's functions are divided into **three**:
   - _Insert Quote_
   - _Summarize Quote_
   - _Delete Quote_
-***
+
+
 ### _Insert Quote_
 1) Find a quote on any HTML file and right click the text.
 2) To check the quote is stored in QuoteLife, click the icon on the top right corner
